@@ -1,9 +1,5 @@
 # IIt-Guwahati-Analytics
 Dynamic Pricing for Urban Parking Lots
-[
-[
-[
-[
 
 Intelligent real-time parking pricing system that optimizes revenue while ensuring fair customer pricing through advanced analytics and machine learning.
 
